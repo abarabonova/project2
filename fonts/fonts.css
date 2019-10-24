@@ -24,3 +24,9 @@
   font-style: normal;
   font-weight: normal;
 }
+@font-face {
+  font-family: Syne-Extra;
+  src: url(Syne-Extra.otf) format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
