@@ -3,22 +3,22 @@
 
 @font-face {
   font-family: RW Dewi Expanded-Black ;
-  src: url(fonts/Russian Fonts - RFDewiExpanded-Black.otf);
+  src: url(..fonts/Russian Fonts - RFDewiExpanded-Black.otf);
 }
 
 @font-face {
   font-family: Russian Fonts - RF Dewi Expanded Bold;
-  src: url(fonts/Russian Fonts - RF Dewi Expanded Bold.otf);
+  src: url(..fonts/Russian Fonts - RF Dewi Expanded Bold.otf);
 }
 
 @font-face {
   font-family: Russian Fonts - RFDewiExpanded-Semibold;
-  src: url(fonts/Russian Fonts - RFDewiExpanded-Semibold.otf);
+  src: url(..fonts/Russian Fonts - RFDewiExpanded-Semibold.otf);
 }
 
 @font-face {
   font-family: heading-pro-wide-trial-black;
-  src: url(fonts/heading-pro-wide-trial.black.ttf);
+  src: url(..fonts/heading-pro-wide-trial.black.ttf);
 }
 
 body{
