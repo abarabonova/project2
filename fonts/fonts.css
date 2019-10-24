@@ -1,22 +1,17 @@
-@font-face {
-  font-family: RW Dewi Expanded;
-  src: url(RussianFonts-RFDewiExpanded-Black.otf) format("truetype");
-  font-style: 900;
-}
-/*
-@font-face {
-  font-family: RF Dewi Expanded;
-  src: url(RussianFonts-RFDewiExpanded-Bold.otf) format("truetype");
-  font-style: normal;
-  font-weight: 700;
-}
+
 
 @font-face {
   font-family: RF Dewi Expanded;
   src: url(RussianFonts-RFDewiExpanded-Semibold.otf) format("truetype");
   font-style: normal;
   font-weight: 500;
-} */
+}
+
+@font-face {
+  font-family: RW Dewi Expanded;
+  src: url(RussianFonts-RFDewiExpanded-Black.otf) format("truetype");
+  font-style: 900;
+}
 
 @font-face {
   font-family: heading-pro-wide-trial-black;
