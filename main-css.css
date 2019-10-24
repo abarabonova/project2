@@ -1,0 +1,924 @@
+@import "reset.css";
+@import "fonts/fonts.css";
+
+body{
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.unit1 {
+  width: 1440px;
+  height: 600px;
+  background: #272F41;
+}
+
+h1 {
+  padding-top: 200px;
+  font-family: "RF Dewi Expanded";
+  font-weight: 900;
+  font-size: 144px;
+  text-align: center;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: #F24141;
+}
+
+h6 {
+  margin-top: -45px;
+  font-family: "heading-pro-wide-trial-black";
+  font-size: 18px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: .125em;
+  text-transform: uppercase;
+  color: #F5CCA6;
+}
+
+.paragraph-heading {
+  position: absolute;
+  width: 680px;
+  height: 60px;
+  left: 365px;
+  top: 395px;
+  font-family: "RF Dewi Expanded";
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 142.5%;
+  text-align: center;
+  color: #F5CCA6;
+}
+
+.unit2 {
+  width: 1440px;
+  height: 699px;
+  background: #F24141;
+}
+
+h3 a {
+  width: 560px;
+  height: 119px;
+  font-family: "RF Dewi Expanded";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 115px;
+  text-decoration-line: underline;
+  text-transform: uppercase;
+  position: absolute;
+  color: #272F41;
+}
+
+a:hover{
+  color: #414A5E;
+}
+
+.advice {
+  margin-left: 705px;
+  margin-top: 138px;
+}
+
+.enc {
+  margin-left: 639px;
+  margin-top: 272px;
+}
+
+.map {
+  margin-left: 836px;
+  margin-top: 409px;
+}
+
+.unit3 {
+  position: absolute;
+  width: 1440px;
+  height: 6900px;
+  background: #272F41;
+}
+
+.number {
+  position: absolute;
+  font-family: "RF Dewi Expanded";
+  font-weight: 900;
+  font-size: 800px;
+  z-index: 1;
+  color: #414A5E;
+}
+
+.one{
+  position: relative;
+}
+
+.pp1 {
+  position: relative;
+  padding-top: 260px;
+  margin-left: 230px;
+  width: 977px;
+  font-family:"RF Dewi Expanded";
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 84px;
+  z-index: 3;
+  color: #F24141;
+}
+
+#n1 {
+  top: -50px;
+  left: 110px;
+}
+
+.p1 {
+  position: relative;
+  margin-top: 35px;
+  margin-left: 230px;
+  width: 725px;
+  height: 385px;
+  font-family: "RF Dewi Expanded";
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  z-index: 4;
+  color: #FFF;
+}
+
+.photo1 {
+  position: relative;
+  width: 666px;
+  height: 444px;
+  left: 619px;
+  top: -775px;
+  z-index: 2;
+}
+
+.two{
+  position: relative;
+  margin-top: 190px;
+}
+
+.pp2 {
+  position: relative;
+  margin-top: -500px;
+  margin-left: 300px;
+  width: 977px;
+  font-family: "RF Dewi Expanded";
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 84px;
+  z-index: 3;
+  color: #F24141;
+  text-align: right;
+}
+
+#n2{
+  top: -260px;
+  left: 690px;
+}
+
+.p2 {
+  position: relative;
+  margin-top: 46px;
+  margin-left: 230px;
+  width: 798px;
+  height: 157px;
+  font-family: "RF Dewi Expanded";
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  z-index: 4;
+  color: #FFF;
+}
+
+.photo2 {
+  position: relative;
+  width: 666px;
+  height: 444px;
+  left: 149px;
+  top: -388px;
+  z-index: 2;
+}
+
+.three{
+  position: relative;
+  margin-top: -140px;
+}
+
+.pp3 {
+  position: relative;
+  padding-top: 190px;
+  margin-left: 230px;
+  width: 977px;
+  font-family: "RF Dewi Expanded";
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 84px;
+  z-index: 3;
+  color: #F24141;
+}
+
+#n3 {
+  top: -50px;
+  left: 110px;
+}
+
+.p3 {
+  position: relative;
+  margin-top: 65px;
+  margin-left: 230px;
+  width: 805px;
+  height: 242px;
+  font-family: "RF Dewi Expanded";
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  z-index: 4;
+  color: #FFF;
+}
+
+.photo3 {
+  position: relative;
+  width: 666px;
+  height: 444px;
+  left: 630px;
+  top: -597px;
+  z-index: 2;
+}
+
+.four{
+  position: relative;
+  top: 350px;
+}
+
+.pp4 {
+  position: relative;
+  margin-top: -500px;
+  margin-left: 300px;
+  width: 977px;
+  font-family: "RF Dewi Expanded";
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 84px;
+  z-index: 3;
+  color: #F24141;
+  text-align: right;
+}
+
+#n4 {
+  top: -210px;
+  left: 630px;
+}
+
+.p4 {
+  position: relative;
+  margin-top: 46px;
+  margin-left: 230px;
+  width: 798px;
+  height: 157px;
+  font-family: "RF Dewi Expanded";
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  z-index: 4;
+  color:#FFF;
+}
+
+.photo4 {
+  position: relative;
+  width: 666px;
+  height: 444px;
+  left: 149px;
+  top: -442px;
+  z-index: 2;
+}
+
+.five{
+  position: relative;
+  top: 125px;
+}
+
+.pp5 {
+  position: relative;
+  padding-top: 190px;
+  margin-left: 230px;
+  width:977px;
+  font-family:"RF Dewi Expanded";
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 84px;
+  z-index: 3;
+  color: #F24141;
+}
+
+#n5 {
+  top: -50px;
+  left: 130px;
+}
+
+.p5 {
+  position: relative;
+  margin-top: 65px;
+  margin-left: 230px;
+  width: 805px;
+  height: 242px;
+  font-family: "RF Dewi Expanded";
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  z-index: 4;
+  color: #FFF;
+}
+
+.photo5 {
+  position: relative;
+  width: 666px;
+  height: 444px;
+  left: 655px;
+  top: -497px;
+  z-index: 2;
+}
+
+.six{
+  position: relative;
+  top: 535px;
+}
+
+.pp6 {
+  position: relative;
+  margin-top: -500px;
+  margin-left: 300px;
+  width: 977px;
+  font-family: "RF Dewi Expanded";
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 84px;
+  z-index: 3;
+  color: #F24141;
+  text-align: right;
+}
+
+#n6 {
+  top: -250px;
+  left: 630px;
+}
+
+.p6 {
+  position: relative;
+  margin-top: 96px;
+  margin-left: 230px;
+  width: 798px;
+  height: 157px;
+  font-family: "RF Dewi Expanded";
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  z-index: 4;
+  color: #FFF;
+}
+
+.photo6 {
+  position: relative;
+  width: 666px;
+  height: 444px;
+  left: 149px;
+  top: -478px;
+  z-index: 2;
+}
+
+.seven{
+  position: relative;
+  top: 350px;
+}
+
+.pp7 {
+  position: relative;
+  padding-top: 190px;
+  margin-left: 230px;
+  width:977px;
+  font-family:"RF Dewi Expanded";
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 84px;
+  z-index: 3;
+  color: #F24141;
+}
+
+#n7 {
+  top: -50px;
+  left: 130px;
+}
+
+.p7 {
+  position: relative;
+  margin-top: 37px;
+  margin-left: 230px;
+  width: 805px;
+  height: 242px;
+  font-family: "RF Dewi Expanded";
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  z-index: 4;
+  color: #FFF;
+}
+
+.photo7 {
+  position: relative;
+  width: 666px;
+  height: 444px;
+  left: 610px;
+  top: -477px;
+  z-index: 2;
+}
+
+.eight{
+  position: relative;
+  top: 800px;
+}
+
+.pp8 {
+  position: relative;
+  margin-top: -500px;
+  margin-left: 300px;
+  width: 1001px;
+  height: 256px;
+  font-family: "RF Dewi Expanded";
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 84px;
+  z-index: 3;
+  color: #F24141;
+  text-align: right;
+}
+
+#n8 {
+  top: -250px;
+  left: 630px;
+}
+
+.p8 {
+  position: relative;
+  margin-top: 46px;
+  margin-left: 230px;
+  width: 798px;
+  height: 157px;
+  font-family: "RF Dewi Expanded";
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  z-index: 4;
+  color:#FFF;
+}
+
+.photo8 {
+  position: relative;
+  width: 666px;
+  height: 444px;
+  left: 149px;
+  top: -478px;
+  z-index: 2;
+}
+
+.unit4 {
+  position: absolute;
+  width: 1440px;
+  height: 889px;
+  top: 8197px;
+  background: #F24141;
+}
+
+h5 {
+  position: relative;
+  font-family: "RF Dewi Expanded";
+  font-weight: 900;
+  font-size: 130px;
+  line-height: 173px;
+  text-transform: uppercase;
+  z-index: 2;
+  left: 78px;
+  color: #fff;
+}
+
+.title4 {
+  left: 80px;
+  top: -83px;
+}
+
+h2 a{
+  position: absolute;
+  font-family: "RF Dewi Expanded";
+  font-weight: 900;
+  font-size: 96px;
+   text-transform: uppercase;
+  left: 80px;
+  color: #272F41;
+}
+
+.shaba {
+  margin-top: -20px;
+}
+
+.pokra {
+  margin-top: 137px;
+}
+
+.shd {
+  margin-top: 294px;
+}
+
+.bas {
+  margin-top: 451px;
+}
+
+.unit5 {
+  position: absolute;
+  width: 1497px;
+  height: 190px;
+  top: 9086px;
+  background: #272F41;
+}
+
+.img-shaba {
+  position: absolute;
+  width: 1440px;
+  height: 909px;
+  left: 0;
+  top: 186px;
+  z-index: 1;
+}
+
+  .h-shaba {
+  margin-top: 83px;
+}
+
+.r-shaba {
+  position: absolute;
+  width: 1440px;
+  height: 666px;
+  left: 0;
+  top: 1095px;
+  background: #F24141;
+}
+
+.unit5 p{
+  margin-top: 80px;
+  width: 1015px;
+  margin-left: 208px;
+  margin-bottom: 45px;
+  font-family:"RF Dewi Expanded";
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  color:#FFF;
+}
+
+.unit5 p:last-child{
+  margin-top: 70px;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.unit6 {
+  position: absolute;
+  width: 1440px;
+  height: 156px;
+  left: 0;
+  top: 10847px;
+  background: #272F41;
+}
+
+.h-pokra {
+  top: 59px;
+}
+
+.img-pokra {
+  position: absolute;
+  width: 1440px;
+  height: 900px;
+  left: 0;
+  top: 156px;
+  z-index: 1;
+}
+
+.r-pokra {
+  position: absolute;
+  width: 1440px;
+  height: 1022px;
+  left: 0px;
+  top: 1056px;
+  background: #F24141;
+}
+
+.unit6 p{
+  width: 1016px;
+  margin-left: 208px;
+  margin-bottom: 45px;
+  font-family:"RF Dewi Expanded";
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  color:#FFF;
+}
+
+.unit6 p:first-child{
+  margin-top: 80px;
+}
+
+.unit6 p:last-child{
+  margin-top: 70px;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.unit7 {
+  position:absolute;
+  width: 1440px;
+  height: 156px;
+  left: 0;
+  top: 12925px;
+  background: #272F41;
+}
+
+.img-shd {
+  position: absolute;
+  width: 1440px;
+  height: 890px;
+  left: 0px;
+  top: 155px;
+  z-index: 1;
+}
+
+.h-shd {
+  top: 66px;
+}
+
+.unit7 p{
+  width: 1016px;
+  margin-left: 208px;
+  margin-bottom: 45px;
+  font-family:"RF Dewi Expanded";
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  color:#FFF;
+}
+
+.unit7 p:first-child{
+  margin-top: 80px;
+}
+
+.unit7 p:last-child{
+  margin-top: 70px;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.r-shd {
+  position: absolute;
+  width: 1440px;
+  height: 920px;
+  left: 0;
+  top: 1045px;
+  background: #F24141;
+}
+
+.map-shd-p{
+  color: #fff;
+}
+
+.unit8 {
+  position: absolute;
+  width: 1440px;
+  height: 156px;
+  left: 0;
+  top: 14890px;
+  background: #272F41;
+}
+
+.img-bs {
+  position: absolute;
+  width: 1440px;
+  height: 923px;
+  left :0;
+  top: 156px;
+  z-index: 1;
+}
+
+.h-bs {
+  top: 62px;
+}
+
+.r-bs {
+  position: absolute;
+  width: 1440px;
+  height: 608px;
+  left: 0px;
+  top: 1079px;
+  background: #F24141;
+}
+
+.unit8 p{
+  margin-top: 80px;
+  width: 1015px;
+  margin-left: 208px;
+  margin-bottom: 45px;
+  font-family: "RF Dewi Expanded";
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  color: #FFF;
+}
+
+.unit8 p:last-child{
+  margin-top: 70px;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.p-bs {
+  position: absolute;
+  width: 1049px;
+  height: 341px;
+  left: 208px;
+  top: 1158px;
+  font-family: "RF Dewi Expanded";
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  color: #FFF;
+}
+
+.p-bs2 {
+  position: absolute;
+  width: 394px;
+  height: 49px;
+  left: 208px;
+  top: 1511px;
+  font-family: "RF Dewi Expanded";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFF;
+}
+
+.unit9 {
+  position: relative;
+  width: 1440px;
+  height: 6760px;
+  top: 15278px;
+  background: #272F41;
+}
+
+
+.map-shd {
+  top: -75px;
+  left: 100px;
+  font-family: "RF Dewi Expanded";
+  font-weight: 900;
+  font-size: 144px;
+  line-height: 173px;
+  text-transform: uppercase;
+  color: #FFF;
+  position: absolute;
+}
+
+
+.unit9 ul li h4{
+  position: absolute;
+  width: 358px;
+  height: 132px;
+  left: 100px;
+  font-family: "RF Dewi Expanded";
+  font-weight: bold;
+  font-size: 64px;
+  color: #F24141;
+}
+
+.first{
+  position: relative;
+  padding-bottom: 150px;
+}
+
+.first h4{
+  top: 560px;
+}
+
+.first img{
+  position: absolute;
+  display: block;
+  margin: 0 auto;
+  top: 460px;
+}
+
+.second{
+  position: relative;
+  top: 700px;
+}
+
+.second img{
+  position: absolute;
+  display: block;
+  margin: 0 auto;
+  top: 370px;
+}
+
+.second h4{
+  top: 480px;
+}
+
+.third{
+  position: relative;
+  top: 1400px;
+}
+
+.third img{
+  position: absolute;
+  display: block;
+  margin: 0 auto;
+  top: 440px;
+}
+
+.third h4{
+  top: 550px;
+}
+
+.fourth{
+  position: relative;
+  top: 2135px;
+}
+
+.fourth img{
+  position: absolute;
+  display: block;
+  margin: 0 auto;
+  top: 465px;
+}
+
+.fourth h4{
+  top: 570px;
+}
+
+.fifth{
+  position: relative;
+  top: 3003px;
+}
+
+.fifth img{
+  position: absolute;
+  display: block;
+  margin: 0 auto;
+  top: 366px;
+}
+
+.fifth h4 {
+  top: 473px;
+}
+
+.sixth{
+  position: relative;
+  top: 3756px;
+}
+
+.sixth img{
+  position: absolute;
+  display: block;
+  margin: 0 auto;
+  top: 375px;
+}
+
+.sixth h4{
+  top: 502px;
+}
+
+.seventh{
+  position: relative;
+  top: 4507px;
+}
+
+.seventh img{
+  position: absolute;
+  display: block;
+  margin: 0 auto;
+  top: 407px;
+}
+
+.seventh h4{
+  top: 505px;
+}
+
+.eighth{
+  position: relative;
+  top: 5258px;
+}
+
+.eighth h4{
+  top: 540px;
+}
+
+.eighth img{
+  position: absolute;
+  display: block;
+  margin: 0 auto;
+  margin-top: 440px;
+}
