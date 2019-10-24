@@ -16,7 +16,6 @@ body{
 h1 {
   padding-top: 200px;
   font-family: "RF Dewi Expanded-bold";
-  font-weight: 900;
   font-style: normal;
   font-size: 144px;
   text-align: center;
@@ -43,7 +42,7 @@ h6 {
   left: 365px;
   top: 375px;
   font-family: "RF Dewi Expanded-bold";
-  font-weight: 600;
+  /* font-weight: 600; */
   font-size: 20px;
   line-height: 142.5%;
   text-align: center;
