@@ -1,7 +1,7 @@
 @font-face {
   font-family: RW Dewi Expanded;
   src: url(RussianFonts-RFDewiExpanded-Black.otf) format("truetype");
-  font-style: normal;
+  font-style: 900;
 }
 
 @font-face {
