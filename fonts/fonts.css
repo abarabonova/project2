@@ -1,19 +1,27 @@
 @font-face {
-  font-family: RW Dewi Expanded-Black ;
-  src: url(Russian Fonts - RFDewiExpanded-Black.otf);
+  font-family: RW Dewi Expanded;
+  src: url(RussianFonts-RFDewiExpanded-Black.otf);
+  font-style: normal;
+  font-weight: bolder;
 }
 
 @font-face {
-  font-family: Russian Fonts - RF Dewi Expanded Bold;
-  src: url(Russian Fonts - RF Dewi Expanded Bold.otf);
+  font-family: RF Dewi Expanded;
+  src: url(RussianFonts-RFDewiExpanded-Bold.otf);
+  font-style: normal;
+  font-weight: bold;
 }
 
 @font-face {
-  font-family: Russian Fonts - RFDewiExpanded-Semibold;
-  src: url(Russian Fonts - RFDewiExpanded-Semibold.otf);
+  font-family:RF Dewi Expanded;
+  src: url(RussianFonts-RFDewiExpanded-Semibold.otf);
+  font-style: normal;
+  font-weight: Semibold;
 }
 
 @font-face {
   font-family: heading-pro-wide-trial-black;
   src: url(heading-pro-wide-trial.black.ttf);
+  font-style: normal;
+  font-weight: normal;
 }
