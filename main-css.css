@@ -801,19 +801,19 @@ h2 a{
 }
 
 .first h4{
-  top: 560px;
+  top: 510px;
 }
 
 .first img{
   position: absolute;
   display: block;
   margin: 0 auto;
-  top: 460px;
+  top: 410px;
 }
 
 .second{
   position: relative;
-  top: 700px;
+  top: 655px;
 }
 
 .second img{
@@ -829,7 +829,7 @@ h2 a{
 
 .third{
   position: relative;
-  top: 1400px;
+  top: 1355px;
 }
 
 .third img{
@@ -845,7 +845,7 @@ h2 a{
 
 .fourth{
   position: relative;
-  top: 2135px;
+  top: 2090px;
 }
 
 .fourth img{
@@ -861,7 +861,7 @@ h2 a{
 
 .fifth{
   position: relative;
-  top: 3003px;
+  top: 2960px;
 }
 
 .fifth img{
@@ -877,7 +877,7 @@ h2 a{
 
 .sixth{
   position: relative;
-  top: 3756px;
+  top: 3707px;
 }
 
 .sixth img{
@@ -893,7 +893,7 @@ h2 a{
 
 .seventh{
   position: relative;
-  top: 4507px;
+  top: 4453px;
 }
 
 .seventh img{
@@ -909,7 +909,7 @@ h2 a{
 
 .eighth{
   position: relative;
-  top: 5258px;
+  top: 5198px;
 }
 
 .eighth h4{
