@@ -17,7 +17,6 @@ h1 {
   padding-top: 200px;
   font-family: "Syne-Extra";
   font-weight: 900;
-  font-style: normal;
   font-size: 130px;
   text-align: center;
   letter-spacing: .04em;
@@ -110,10 +109,10 @@ a:hover{
 .pp1 {
   position: relative;
   padding-top: 260px;
-  margin-left: 230px;
+  left: 230px;
   width: 977px;
   font-family:'RF Dewi Expanded';
-  font-weight: 800;
+  font-weight: 900;
   font-size: 70px;
   line-height: 84px;
   z-index: 3;
@@ -127,8 +126,8 @@ a:hover{
 
 .p1 {
   position: relative;
-  margin-top: 35px;
-  margin-left: 230px;
+  top: 35px;
+  left: 230px;
   width: 725px;
   height: 385px;
   font-family: 'RF Dewi Expanded';
@@ -144,7 +143,7 @@ a:hover{
   width: 666px;
   height: 444px;
   left: 619px;
-  top: -775px;
+  top: -739px;
   z-index: 2;
 }
 
@@ -174,10 +173,9 @@ a:hover{
 
 .p2 {
   position: relative;
-  margin-top: 46px;
-  margin-left: 230px;
+  top: 46px;
+  left: 230px;
   width: 798px;
-  height: 157px;
   font-family: 'RF Dewi Expanded';
   font-weight: bold;
   font-size: 24px;
@@ -191,7 +189,7 @@ a:hover{
   width: 666px;
   height: 444px;
   left: 149px;
-  top: -388px;
+  top: -363px;
   z-index: 2;
 }
 
@@ -220,8 +218,8 @@ a:hover{
 
 .p3 {
   position: relative;
-  margin-top: 65px;
-  margin-left: 230px;
+  margin-top: 55px;
+  left: 230px;
   width: 805px;
   height: 242px;
   font-family: 'RF Dewi Expanded';
@@ -360,7 +358,7 @@ a:hover{
 
 .p6 {
   position: relative;
-  margin-top: 96px;
+  margin-top: 46px;
   margin-left: 230px;
   width: 798px;
   height: 157px;
@@ -377,7 +375,7 @@ a:hover{
   width: 666px;
   height: 444px;
   left: 149px;
-  top: -478px;
+  top: -398px;
   z-index: 2;
 }
 
